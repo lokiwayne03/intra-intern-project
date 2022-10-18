@@ -1,0 +1,79 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    font-style: bold;
+    font-family: fantasy ;
+    font-size: 50px;
+    /* letter-spacing: 0.1cm; */
+    color: goldenrod;
+    margin-left: 505px;
+    background-image: linear-gradient(black,brown,black);
+    border: 3px darkblue double;
+    text-shadow: 2px 2px cyan;
+}
+
+.subtitle {
+    text-align: center;
+    font-style: italic;
+    border-bottom: 2px wheat dotted;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: aqua;
+    margin-top: 10px;
+    text-shadow: 2px 2px goldenrod;
+
+}
+
+.text{
+    color: antiquewhite;
+}
+
+body {
+    background-image: linear-gradient(90deg,#f7e64f,#d24b00,black,#302d2e,#535351,#a6a8a4);
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    cursor: url('roger.png'), auto;	
+}
+
+ul {
+    background: #485e65;
+    padding: 20px;
+}
+
+ul li {
+    background: #000000;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+}
+
+span.fax {
+    margin-bottom: solid black;
+    background-color: black;
+    color: #a6a8a4;
+}
+
+.theory {
+    color: bisque;
+    height: fit-content;
+    width: fit-content;
+}
+
+.headache {
+    float: left;
+}
+
+.next {
+    margin-top: 119px;
+}
+
+.page{
+    margin-left: 950px;
+}
